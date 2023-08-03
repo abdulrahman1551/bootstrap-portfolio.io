@@ -26,7 +26,7 @@ body{
 }
 
 .space .star.star1{
-    background: url(/images/star1.png);
+    background: url(images/star1.png);
     z-index: -1;
 }
 
